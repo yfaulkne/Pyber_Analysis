@@ -23,7 +23,7 @@ Urban Cities
 #### Deliverable 2
 ##### The fares for each city type were grouped into weekly data using the resample function. The sum of each week from 1-1-2019 through 4-28-2019 are shown below.
 ![](https://github.com/yfaulkne/Pyber_Analysis/blob/main/analysis/pyber_weekly_pivot.PNG)
-##### The results of that dataframe were then plotted into mulitple a line graph, with Fares on the y-axis and the weekly dates as the markers on the x-axis.
+##### The results of that dataframe were then plotted into mulitple a line graph, with Fares on the y-axis and the weekly dates as the markers on the x-axis. There was a big dip in April data, especially for Urban cities. This may be due to an error with collecting data for that month since it is not consistent with the rest of the results. Pyber may need to look further into this.
 ![](https://github.com/yfaulkne/Pyber_Analysis/blob/main/analysis/Pyber_fare_summary.png)
 ---
 #### Summary
@@ -34,4 +34,5 @@ Urban Cities
 ##### Using this same promotion, Pyber can increase metrics for total rides as well as total fares for Suburban cities. Promotion deals will bring back more loyal customers that already use Pyber as well as encourage new customers to join. As a result, total rides and total fares will increase which will be a win for Pyber.
 ---
 ##### Addressing another metric, there is a significant amount of drivers in Urban cities as compared to the total rides. There seems to be too many drivers and not enough rides being given. Pyber can recommend drivers travel to the Suburban or Rural areas during the promotion to increase drivers in those areas, ultimately putting more money in the drivers' pockets.
+
 
