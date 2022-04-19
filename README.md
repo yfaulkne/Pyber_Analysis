@@ -23,15 +23,15 @@ Urban Cities
 #### Deliverable 2
 ##### The fares for each city type were grouped into weekly data using the resample function. The sum of each week from 1-1-2019 through 4-28-2019 are shown below.
 ![](https://github.com/yfaulkne/Pyber_Analysis/blob/main/analysis/pyber_weekly_pivot.PNG)
-##### The results of that dataframe were then plotted into mulitple a line graph, with Fares on the y-axis and the wekkly dates as the markers on the x-axis.
+##### The results of that dataframe were then plotted into mulitple a line graph, with Fares on the y-axis and the weekly dates as the markers on the x-axis.
 ![](https://github.com/yfaulkne/Pyber_Analysis/blob/main/analysis/Pyber_fare_summary.png)
 ---
 #### Summary
-##### In the ride-share data collected, Urban cities had the most rides and drivers across all months. Rural cities had the least rides and drivers in those cities. Suburban cities fell in the middle on both metrics. 
+##### In the ride-share data collected, Urban cities had the most rides and drivers across all months. Rural cities had the least rides and drivers. Suburban cities fell in the middle on both metrics. 
 ---
-##### To address these disprities among the different city types, I would recommend Pyber to run a promotion for discounted rides among Rural and Suburban riders. There seem to be more than enough drivers for both of these city types but the average fares per ride are $6-10 respectively as compared to rides in Urban cities. Rural customers may be discouraged from using Pyber due to these prices.
+##### To address these disparities among the different city types, I would recommend Pyber to run a promotion for discounted rides among Rural and Suburban riders. There seems to be enough drivers for both of these city types but the average fares per ride are $6-10 higher respectively compared to rides in Urban cities. Rural customers may be discouraged from using Pyber due to these prices.
 --- 
-##### Using this same promotion, Pyber can also increase metrics for total rides aas well as total fares for Suburban cities. Promotion deals will bring back more loyal customers that already use Pyber as well as encourage new customers to join. As a result, total rides and total fares will increase which will be a win for Pyber.
+##### Using this same promotion, Pyber can increase metrics for total rides as well as total fares for Suburban cities. Promotion deals will bring back more loyal customers that already use Pyber as well as encourage new customers to join. As a result, total rides and total fares will increase which will be a win for Pyber.
 ---
-##### Addressing another metric, there is a significant amount of drivers in Urban cities as compared to the total rides. There seems to be too many drivers and not enough rides being given. Pyber can recommend drivers travel to the Suburban or Rural areas during the promotion to increase drivers in those areas and ultimately putting more money in the drivers' pockets.
+##### Addressing another metric, there is a significant amount of drivers in Urban cities as compared to the total rides. There seems to be too many drivers and not enough rides being given. Pyber can recommend drivers travel to the Suburban or Rural areas during the promotion to increase drivers in those areas, ultimately putting more money in the drivers' pockets.
 
