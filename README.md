@@ -18,11 +18,11 @@ Rural Cities
 #####
 Urban Cities
   * Cities identified as Urban had a total of 1,625 rides during data collection. There were a total of 2,405 drivers that collected fares totaling $39,854.38. The average fare per ride was $24.53 and the average fare per driver was $16.57.
-![](https://github.com/yfaulkne/Pyber_Analysis/blob/main/analysis/pyber_summary_df.png)
+![](https://github.com/yfaulkne/Pyber_Analysis/blob/main/analysis/pyber_summary_df.PNG)
 ---
 #### Deliverable 2
 ##### The fares for each city type were grouped into weekly data using the resample function. The sum of each week from 1-1-2019 through 4-28-2019 are shown below.
-![](https://github.com/yfaulkne/Pyber_Analysis/blob/main/analysis/pyber_weekly_pivot.png)
+![](https://github.com/yfaulkne/Pyber_Analysis/blob/main/analysis/pyber_weekly_pivot.PNG)
 ##### The results of that dataframe were then plotted into mulitple a line graph, with Fares on the y-axis and the wekkly dates as the markers on the x-axis.
 ![](https://github.com/yfaulkne/Pyber_Analysis/blob/main/analysis/Pyber_fare_summary.png)
 ---
